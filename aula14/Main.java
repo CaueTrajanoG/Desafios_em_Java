@@ -1,6 +1,6 @@
 package aula14;
 
-public class Aula14 {
+public class Main {
     public static void main(String[] args) {
 
         Video v[] = new Video[2];
