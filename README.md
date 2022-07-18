@@ -1,2 +1,2 @@
-# Pasta de Exercícios.
-pasta para armazenar exercicios
+# Pasta Exercícios Java.
+Java POO
