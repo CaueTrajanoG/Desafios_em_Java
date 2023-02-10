@@ -1,4 +1,4 @@
-package DiD;
+package DungeonsAndDragons;
 import java.util.Random;
 
 public class geradorDungeonsAndDragons {
